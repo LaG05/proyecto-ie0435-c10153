@@ -1,0 +1,14 @@
+==================================================
+MODELO DE CLASIFICACIÓN - PROYECTO 1 IE0435
+==================================================
+
+Estudiante: Luis Aguirre
+Carné: C10153
+
+MEJOR MODELO: Decision Tree
+PCA aplicado: 16384 → 5 componentes
+--------------------------------------------------
+Accuracy:  0.8333
+Precision: 0.7500
+Recall:    1.0000
+F1-Score:  0.8571

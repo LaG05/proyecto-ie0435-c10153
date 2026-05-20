@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+resultados/
+*.log
+.env
+imagenes/
+preprocessed_images/
